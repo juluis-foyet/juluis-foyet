@@ -4,3 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juluis-foyet&label=Profile%20views&color=0e75b6&style=flat" alt="juluis-foyet" /> </p>
 
 🌱 I’m currently learning Data Science with Python **@ALX**
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://cran.r-project.org/" target="_blank"> <img src="https://cran.r-project.org/Rlogo.svg" alt="r" width="40" height="40"/> </a>
+  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="pgsql" width="40" height="40"/> </a>
+  <a href="https://app.powerbi.com/" target="_blank"> <img src="https://app.powerbi.com/13.0.25635.41/images/PowerBI_MasterLogo.svg" alt="powerbi" width="40" height="40"/> </a>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juluis-foyet&show_icons=true&locale=en" alt="juluis-foyet" /></p>
