@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋 I'm Juluis Foyet</h1>
-<h3 align="center">Biostatistics | R Programming</h3>
+<h3 align="center">Biostatistics | Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juluis-foyet&label=Profile%20views&color=0e75b6&style=flat" alt="juluis-foyet" /> </p>
 
@@ -14,7 +14,8 @@
   <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://www.postgresql.org/" target="_blank"> <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="pgsql" width="40" height="40"/> </a>
   <a href="https://app.powerbi.com/" target="_blank"> <img src="https://app.powerbi.com/13.0.25635.41/images/PowerBI_MasterLogo.svg" alt="powerbi" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="60"/> <a/>
+  <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_white.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 </p>
 
