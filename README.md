@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juluis-foyet&label=Profile%20views&color=0e75b6&style=flat" alt="juluis-foyet" /> </p>
 
-🌱 I’m currently following the Data Science Program **@ALX**
+Hello! I’m Juluis Foyet, a passionate Data Analyst from Cameroon, holding a Master of Science in Parasitology. My interests extend to the fascinating realms of data analysis, geospatial analysis, and bioinformatics, all of which I’ve enthusiastically pursued through various online courses. I also have great interest in molecular biology, entomology, and Neglected Tropical Diseases (NTDs), reflecting my diverse and holistic approach to the life sciences. What characterizes me is my unwavering commitment to self-learning; every day is an opportunity for me to enhance my skills and stay at the forefront of advancements in my areas of interest. With a foundation in parasitology and a versatile skill set, I’m excited to contribute my expertise to projects that blend biology with the power of computational sciences.
 
 
 <h3 align="left">Languages and Tools:</h3>
